@@ -2,7 +2,7 @@
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
 💻 This is a Drum 🥁kit website made with HTML, CSS and Javascript. You can play the musical instruments by clicking the pictures or typing the corresponding keys on your keyboard to compose a musical tune. 
-🌍 Website:  
+🌍 Website:  https://lacegiovanni17.github.io/Drum-Kit-for-Chidike/
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
